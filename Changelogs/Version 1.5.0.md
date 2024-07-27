@@ -35,7 +35,7 @@
   * #### Chunk Pregenerator - Version 1.20-4.4.4
   * #### Citadel - Version 2.5.6-1.20.1
   * #### Clickable Advancements - Version 1.20.1-3.8
-  * #### Collective - Version 1.20.1-7.74
+  * #### Collective - Version 1.20.1-7.78
   * #### Colorful Hearts - Version 1.20.1-4.2.13
   * #### Connectivity - Version 1.20.1-5.6
   * #### Cooking For Blockheads - Version 1.20.1-16.0.6
@@ -90,7 +90,7 @@
   * #### L_Ender's Cataclysm - Version 1.99.6-1.20.1
   * #### L2 Library - Version 2.4.28
   * #### Large Ore Deposits - Version 1.20.1-8.1.2.0-build.0424
-  * #### Lithostitched - Version 1.20.1-1.1.6
+  * #### Lithostitched - Version 1.20.1-1.1.8
   * #### Login Protection - Version 1.20.1-3.4
   * #### Lootr - Version 1.20-0.7.34.86
   * #### Lucky's Blocky Siege - Version 6.1.92-1.20.1
@@ -104,10 +104,11 @@
   * #### Max Health Fix - Version 1.20.1-12.0.3
   * #### MmmMmmMmmMmm (Target Dummy) - Version 1.20-1.8.17b
   * #### Moderately Enough Effect Descriptions - Version 1.20.1-4.7
-  * #### ModernFix - Version 5.18.10+mc1.20.1
+  * #### ModernFix - Version 5.19.0+mc1.20.1
   * #### Moonlight Lib - Version 1.20-2.12.9-forge
   * #### More Overlays - Version 1.22.7-mc1.20.2
   * #### Mouse Tweaks - Version mc1.20.1-2.25.1
+  * #### Nether Portal Spread - Version 1.20.1-8.3
   * #### Nuclear Science - Version 1.20.1-0.6.1-0
   * #### Oculus - Version mc1.20.1-1.7.0
   * #### Placebo - Version 1.20.1-8.6.2
@@ -130,7 +131,7 @@
   * #### Sophisticated Backpacks - Version 1.20.1-3.20.5.1044
   * #### Sophisticated Core - Version 1.20.1-0.6.22.611
   * #### Spawn Balance Utility - Version 1.20-46.13.5
-  * #### Starter Kit - Version 1.12.1-7.0
+  * #### Starter Kit - Version 1.12.1-7.1
   * #### Structure Essentials - Version 1.20.1-3.4
   * #### Structure Gel API - Version 1.20.1-2.16.2
   * #### Terralith - Version 1.20_v2.5.4
