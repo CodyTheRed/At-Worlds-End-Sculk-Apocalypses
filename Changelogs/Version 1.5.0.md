@@ -229,7 +229,7 @@ _______________________________________
   
   * #### Fresh Animations
   * #### Better Spiders
-  * #### Boss Rereshed
+  * #### Boss Refreshed
   * #### Blue's Better Monsters
 
   </details>
@@ -255,6 +255,7 @@ _______________________________________
   * #### None For Now
   
   </details>
+<br />
 
 * <details>
     <summary>
@@ -283,6 +284,7 @@ _______________________________________
   * #### None For Now
   
   </details>
+<br />
 
 * <details>
     <summary>
@@ -290,5 +292,8 @@ _______________________________________
     </summary>
   
   * #### Born In Chaos - Nightmare Stalker
+
+ </details>
+<br />
 
 </details>
