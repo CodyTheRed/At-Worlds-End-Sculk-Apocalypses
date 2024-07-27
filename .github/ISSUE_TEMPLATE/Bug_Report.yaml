@@ -1,0 +1,73 @@
+name: 💥 Bug Report
+description: Create a report to help us improve
+title: "[Bug]: "
+labels: [bug]
+body:
+  - type: markdown
+    id: title
+    attributes:
+      value: |
+        **PLEASE NAME YOUR ISSUE PROPERLY! DON'T LEAVE THE TITLE EMPTY**
+        **We Cannot Provide Support For Modified Modpacks! This Pack Is Configured To Work With All Mods Present, And With No Others Added. Please Make Sure To Uninstall/Disable Any Extra Mods Added To The Pack!**
+    
+  - type: checkboxes
+    id: general-info
+    attributes:
+      label: General Info
+      description: You may select more than one.
+      options:
+        - label: I have disabled/uninstalled any added mods.
+        - label: This issue happens consistently in single-player.
+        - label: This issue happens consistently in multi-player.
+        - label: This issue prevents a server from starting.
+    validations:
+      required: true
+      
+#  - type: input
+#    id: launcher-info
+#    attributes:
+#      label: Your launcher
+#      placeholder: ex. Curseforge, GDL, ATLauncher
+#    validations:
+#      required: true
+      
+  - type: input
+    id: modpack-info
+    attributes:
+      label: Modpack version (Do not just say latest! Version should be listed on the pack CurseForge Page)
+      placeholder: ex. 1.3
+    validations:
+      required: true
+      
+  - type: textarea
+    id: issue-description
+    attributes:
+      label: Describe your issue
+      description: A clear and concise description of what the bug is.
+      placeholder: Tell us what you see!
+      value: "A bug happened!"
+    validations:
+      required: true
+      
+  - type: textarea
+    id: issue-reproduce
+    attributes:
+      label: Steps to reproduce the issue
+      description: A clear and concise description of what the bug is.
+      placeholder: 1. Go to...; 2. Click on...; 3. Use that...
+    validations:
+      required: false
+      
+  - type: textarea
+    id: logs
+    attributes:
+      label: Additional Information
+      description: Please post crash report(located in crash-reports folder) and latest.log(located in logs folder), screenshots, etc. here. (use Pastebin.com, gist.github.com or Imgur.com accordingly). 
+      placeholder: If the pack is crashing please provide the latest.log from the logs folder of your instance.
+    validations:
+      required: true
+      
+#  - type: markdown
+#    id: logs
+#    attributes:
+#      value: "**! ! ! PLEASE PROVIDE ANY TYPE OF LOGS. REPORTS WITHOUT LOGS OR CRASH-REPORTS WILL BE CLOSED WITHOUT REVIEWING ! !**" 
