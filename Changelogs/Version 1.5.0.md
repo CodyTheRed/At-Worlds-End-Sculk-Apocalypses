@@ -161,7 +161,6 @@
   * #### Blood Magic
   * #### Botania
   * #### Create: Utilities
-  * #### Forbidden and Arcanus
   * #### From Another World
   * #### KubeJS: Ars Nouveau
   * #### KubeJS: Blood Magic
