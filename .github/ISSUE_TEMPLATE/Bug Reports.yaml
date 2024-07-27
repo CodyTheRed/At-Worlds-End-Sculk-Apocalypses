@@ -20,8 +20,6 @@ body:
         - label: This issue happens consistently in single-player.
         - label: This issue happens consistently in multi-player.
         - label: This issue prevents a server from starting.
-        - label: This issue crashes the game
-        - label: This issue crashes a server
     validations:
       required: true
       
@@ -60,14 +58,14 @@ body:
     validations:
       required: false
       
-  - type: textarea
-    id: logs
-    attributes:
-      label: Additional Information
-      description: Please post crash report(located in crash-reports folder) and latest.log(located in logs folder), screenshots, etc. here. (Please use pste.ch, gist.github.com or Imgur.com accordingly). 
-      placeholder: If the pack is crashing please provide the latest.log from the logs folder of your instance.
-    validations:
-      required: true
+#  - type: textarea
+#    id: logs
+#    attributes:
+#      label: Additional Information
+#      description: Please post crash report(located in crash-reports folder) and latest.log(located in logs folder), screenshots, etc. here. (Please use pste.ch, gist.github.com or Imgur.com accordingly). 
+#      placeholder: If the pack is crashing please provide the latest.log from the logs folder of your instance.
+#    validations:
+#      required: true
       
 #  - type: markdown
 #    id: logs
