@@ -35,12 +35,12 @@
   * #### Chunk Pregenerator - Version 1.20-4.4.4
   * #### Citadel - Version 2.5.6-1.20.1
   * #### Clickable Advancements - Version 1.20.1-3.8
-  * #### Collective - Version 1.20.1-7.78
+  * #### Collective - Version 1.20.1-7.80
   * #### Colorful Hearts - Version 1.20.1-4.2.13
   * #### Connectivity - Version 1.20.1-5.6
   * #### Cooking For Blockheads - Version 1.20.1-16.0.6
   * #### Corail Tombstone - Version 1.20.1-8.6.7
-  * #### CorgiLib - Version 1.20.1-4.0.1.3
+  * #### CorgiLib - Version 1.20.1-4.0.2.0
   * #### Crafting Tweaks - Version 1.20.1-18.2.4
   * #### Create: Big Cannons - Version 5.5.0-mc.1.20.1
   * #### Create: Crafts & Additions - Version 1.20.1-1.2.4d
