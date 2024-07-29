@@ -1,0 +1,62 @@
+"Quick Swap" = false
+"Preset Hotkey" = false
+"Radio Hotkey" = true
+"Ping Hotkey" = true
+"Tab Hotkey" = true
+"Projectile Indicator" = true
+"Biosensor (Zombie)" = false
+"Whether fancy ava armour model is used" = true
+"Display Kill Tip" = true
+"Use bullet hole effect" = true
+"Use blood effect" = false
+"Use bullet trail effect" = true
+"Use projectile trail effect" = true
+"Use lens tint" = true
+"Should player model be modified, turn off if bugged with other mods" = true
+"Should the camera tile on-hit be removed when having AVA armour fully equipped" = true
+#Range: -10000.0 ~ 1.7976931348623157E308
+"Test value, should not be changed" = 0.9900000095367432
+
+[avalight]
+	fast_assets = false
+	gui_fast_assets = true
+
+	[avalight.crosshair]
+
+		[avalight.crosshair.config]
+			enable = true
+			#Range: 0.0 ~ 1.0
+			red = 0.20000000298023224
+			#Range: 0.0 ~ 1.0
+			green = 1.0
+			#Range: 0.0 ~ 1.0
+			blue = 0.0
+			#Range: 0.0 ~ 1.0
+			transparency = 1.0
+
+	[avalight.fp_animation]
+
+		[avalight.fp_animation.config]
+			enable_bobbing = true
+
+["Mouse Sensitivity Scale of Magnification of x1"]
+	#-
+	#-
+	#-
+	#Range: 0.0 ~ 2.0
+	1 = 1.0
+	#Range: 0.0 ~ 2.0
+	2 = 1.0
+	#Range: 0.0 ~ 2.0
+	3 = 1.0
+	#Range: 0.0 ~ 2.0
+	4 = 1.0
+	#Range: 0.0 ~ 2.0
+	5 = 1.0
+	#Range: 0.0 ~ 2.0
+	6 = 1.0
+	#Range: 0.0 ~ 2.0
+	7 = 1.0
+	#Range: 0.0 ~ 2.0
+	8 = 1.0
+
