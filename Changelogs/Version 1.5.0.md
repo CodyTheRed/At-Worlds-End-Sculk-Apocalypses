@@ -83,7 +83,7 @@
   * #### Inventory HUD+ - Version 1.20.1-3.4.24
   * #### Jade - Version 1.20.1-forge-11.9.4
   * #### Just Enough Effect Descriptions - Version 1.20-2.2.1
-  * #### Just Enough Items - Version 1.20.1-forge-15.8.2.23
+  * #### Just Enough Items - Version 1.20.1-forge-15.8.2.24
   * #### Kotlin for Forge - Version 4.11.0-all
   * #### KubeJS - Version 2001.6.5-build.14
   * #### KubeJS Offline Documentation - Version 4.0.2
