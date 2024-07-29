@@ -1,0 +1,71 @@
+
+["Projectile Stats"]
+	#Range: 0.0 ~ 100.0
+	m67_explosive_damage = 26.0
+	#Range: 0.0 ~ 30.0
+	m67_explosive_range = 3.0
+	#Range: 0.0 ~ 50.0
+	m116a1_flash_range = 5.0
+	#Range: 0 ~ 200
+	m116a1_flash_duration = 80
+	#Range: 0.0 ~ 100.0
+	mk3a2_explosive_damage = 26.0
+	#Range: 0.0 ~ 50.0
+	mk3a2_explosive_range = 2.0
+	#Range: 0.0 ~ 30.0
+	mk3a2_flash_range = 2.0
+	#Range: 0 ~ 200
+	mk3a2_flash_duration = 60
+
+["Special Weapon Stats"]
+	#Range: 0.0 ~ 100.0
+	m202_explosive_damage = 34.0
+	#Range: 0.0 ~ 30.0
+	m202_explosive_range = 6.0
+	#Range: 0.0 ~ 100.0
+	gm94_explosive_damage = 28.0
+	#Range: 0.0 ~ 30.0
+	gm94_explosive_range = 5.0
+
+["Other Settings"]
+	is_ammo_kit_supplier_craftable = false
+	explosion_destroys_entities = false
+	#0: None, 1: Glass Material Only, 2: All Blocks, 3: Glass Material Only By C4
+	#Range: 0 ~ 3
+	explosion_destruction_type = 0
+	#Multiplier for the damage caused by all ava damage source
+	#Range: 0.0 ~ 40.0
+	damage_multiplier_against_players = 1.0
+	#Range: 0.0 ~ 40.0
+	damage_multiplier_against_others = 1.0
+	melee_destroyable_blocks = ""
+	#Disabled weapons, format: m18_toxic, m202, gm94
+	disabled_weapons = ""
+	#Range: 0.0 ~ 1.0
+	field_knife_movement_speed_bonus = 0.0035
+	#If the mastery system for guns is disabled, existing mastery will not be affected
+	disable_mastery_system = false
+	#Whether the attachments are free to install
+	free_attachments = false
+	#The maximum number of the same type of entity can exist in a world, -1 indicates infinity as default
+	#Range: 0.0 ~ 100.0
+	headshot_damage_scale = 2.5
+	#Whether firerate is stable, if enabled the firerate is stabled but may feel slower on some weapons
+	stable_firerate = false
+	#Does bullet shoot through walls
+	do_bullet_penetrate_walls = true
+	#If client can choose to show entity status, 0 for showing none, 1 for showing creatures, 2 for showing ally, 3 for showing all
+	#Range: 0 ~ 3
+	can_client_see_entity_status = 3
+	#Whether the crosshair should be rendered
+	should_render_crosshair = true
+	#Whether friendly fire is enabled
+	friendly_fire = true
+	#Whether reduced friendly fire is enabled
+	reduced_friendly_fire = true
+	#Whether glass should break when hit by bullets
+	do_glass_break = true
+	#The chance of mob drops kits
+	#Range: 0.0 ~ 1.0
+	mob_drops_kits_chance = 0.2
+
