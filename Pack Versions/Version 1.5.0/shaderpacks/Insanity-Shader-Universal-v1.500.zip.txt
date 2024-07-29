@@ -1,0 +1,4 @@
+#Sat Feb 17 22:39:45 EST 2024
+shadowDistance=128.0
+REFLECTION=1
+shadowMapResolution=1024
