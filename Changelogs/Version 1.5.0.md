@@ -190,7 +190,7 @@
   * #### Nyf's Spiders - Version 1.20.1-2.1.1
   * #### Sophisticated Storage - Version 1.20.1-0.10.25.804
   * #### Starlight - Version 1.1.2+forge.1cda73c
-  * #### The Anomaly - Version 1.1.0_1.19.2
+  * #### The Anomaly - Version 1.1.0
   * #### The End Of Herobrine - Version 1.20.1-1.0.8.2
   * #### The Man From The Fog - Version 1.3-1.20.1
   * #### The Slender Man - Version 1.4
