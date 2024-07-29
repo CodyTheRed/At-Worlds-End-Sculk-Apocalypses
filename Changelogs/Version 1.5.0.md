@@ -83,7 +83,7 @@
   * #### Inventory HUD+ - Version 1.20.1-3.4.24
   * #### Jade - Version 1.20.1-forge-11.9.4
   * #### Just Enough Effect Descriptions - Version 1.20-2.2.1
-  * #### Just Enough Items - Version 1.20.1-forge-15.8.2.24
+  * #### Just Enough Items - Version 1.20.1-forge-15.8.2.25
   * #### Kotlin for Forge - Version 4.11.0-all
   * #### KubeJS - Version 2001.6.5-build.14
   * #### KubeJS Offline Documentation - Version 4.0.2
@@ -190,7 +190,7 @@
   * #### Nyf's Spiders - Version 1.20.1-2.1.1
   * #### Sophisticated Storage - Version 1.20.1-0.10.25.804
   * #### Starlight - Version 1.1.2+forge.1cda73c
-  * #### The Anomaly - Version 1.1.0
+  * #### The Anomaly - Version 1.1.0_1.19.2
   * #### The End Of Herobrine - Version 1.20.1-1.0.8.2
   * #### The Man From The Fog - Version 1.3-1.20.1
   * #### The Slender Man - Version 1.4
