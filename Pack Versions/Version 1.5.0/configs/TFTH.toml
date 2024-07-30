@@ -6,7 +6,7 @@
 	#Default values: true
 	enableIncubatorSpawn = true
 	#List of dimension IDs where incubators should not spawn.
-	"Incubator Dimension Blacklist" = ["minecraft:the_nether", "minecraft:the_end"]
+	"Incubator Dimension Blacklist" = ["minecraft:the_nether", "minecraft:the_end", "insanetnt:destroyed"]
 	#Minimum distance from a player's respawn point where incubators cannot spawn.
 	#Range: 0.0 ~ 10000.0
 	"spawnpoint do not spawn" = 120.0
@@ -214,11 +214,11 @@
 	#Mobs that will target flesh entities
 	mobsThatAttackInfected = ["minecraft:iron_golem", "minecraft:pillager", "minecraft:evoker", "minecraft:vindicator", "minecraft:vex", "minecraft:witch", "minecraft:ravager", "minecraft:bee", "minecraft:blaze", "minecraft:cave_spider", "minecraft:spider", "minecraft:drowned", "minecraft:elder_guardian", "minecraft:enderman", "minecraft:endermite", "minecraft:husk", "minecraft:skeleton", "minecraft:slime", "minecraft:zombie_villager", "minecraft:stray", "minecraft:wither_skeleton", "minecraft:zombie", "minecraft:zombified_piglin", "minecraft:guardian", "minecraft:hoglin", "minecraft:shulker", "minecraft:zombified_piglin", "minecraft:drowned", "minecraft:elder_guardian", "minecraft:enderman", "minecraft:endermite", "minecraft:wolf", "guardvillagers:guard"]
 	#Mobs that will target flesh entities if previous methods dont work, but id whole mod
-	ultraListAttackInfected = ["fromanotherworld","sculkhorde","spore",]
+	ultraListAttackInfected = ["fromanotherworld", "sculkhorde", "spore"]
 	#Mobs that will target flesh entities, but id whole mod
 	#Add for example this: ["minecraft"], and all the Minecraft mobs will attack the flesh entities
 	#If you leave just empty brackets [" "], it will apply to all mods
-	superAttackList = ["fromanotherworld","sculkhorde","spore",]
+	superAttackList = ["fromanotherworld", "sculkhorde", "spore"]
 	#Mobs that will run from flesh entities
 	mobsThatFleeFromInfected = ["minecraft:villager", "minecraft:wandering_trader"]
 	#Mobs that will run from flesh entities, but id whole mod
