@@ -20,6 +20,7 @@
   * #### Almost Unified - Version 1.20.1-0.9.4
   * #### Apotheosis - Version 1.20.1-7.3.5
   * #### Apothic Attributes - Version 1.20.1-1.3.6
+  * #### Aquaculture 2 - Version 1.20.1-2.5.2
   * #### Artifacts - Version 9.5.11
   * #### AzureLib - Version 1.20.1-2.0.30
   * #### Bad Mobs - Version 1.20.1-19.0.4
@@ -45,7 +46,7 @@
   * #### Create: Big Cannons - Version 5.5.0-mc.1.20.1
   * #### Create: Crafts & Additions - Version 1.20.1-1.2.4d
   * #### Create: Deco - Version 2.0.2-1.20.1-forge
-  * #### Create: Encased - Version 1.20.1-1.6.1
+  * #### Create: Encased - Version 1.20.1-1.6.1-fix1
   * #### Create: Enchantment Industry - Version 1.2.9.d
   * #### Create: Factory Must Grow - Version 0.9.0d-1.20.1
   * #### Create: Ore Excavation - Version 1.20-1.5.0
@@ -115,14 +116,15 @@
   * #### PneumaticCraft: Repressurized - Version 6.0.15+mc1.20.1
   * #### PolyLib - Version 2000.0.3-build.143
   * #### Polymorph - Version 0.49.5+1.20.1
+  * #### Ponder for KubeJS - Version 1.20.1-1.4.0
   * #### ProbeJS - Version 7.0.1-forge
   * #### Puzzles Lib - Version 8.1.20-1.20.1
   * #### Rechiseled - 1.1.6-forge-mc1.20
-  * #### Recipe Essentials - Version 1.20.1-3.5
+  * #### Recipe Essentials - Version 1.20.1-3.6
   * #### Refined Polymorphism - Version 0.1.1-1.20.1
   * #### Resourceful Lib - Version 1.20.1-2.1.28
   * #### Savage Ender Dragon - Version 1.20.1-4.6
-  * #### Sculk Horde - Version 1.20.1-0.9.8
+  * #### Sculk Horde - Version 1.20.1-0.9.9
   * #### Searchables - Version 1.20.1-1.0.3
   * #### ShetiPhianCore - Version 1.20.1-1.3
   * #### Sinytra Connector - Version 1.00-beta.44+1.20.1
@@ -192,8 +194,7 @@
   * #### Starlight - Version 1.1.2+forge.1cda73c
   * #### The Anomaly - Version 1.1.0
   * #### The End Of Herobrine - Version 1.20.1-1.0.8.2
-  * #### The Man From The Fog - Version 1.3-1.20.1
-  * #### The Slender Man - Version 1.4
+  * #### The Man From The Fog - Version 1.3.1a-1.20.1
   * #### Vivecraft - Version 1.20.1-1.1.11
   * #### Vivecraft Compat - Version 1.20-1.3.5
   * #### Whispering Spirits - Version 1.20.1-v1.4.0
