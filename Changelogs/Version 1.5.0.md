@@ -40,7 +40,7 @@
   * #### Colorful Hearts - Version 1.20.1-4.2.13
   * #### Connectivity - Version 1.20.1-5.6
   * #### Cooking For Blockheads - Version 1.20.1-16.0.6
-  * #### Corail Tombstone - Version 1.20.1-8.6.7
+  * #### Corail Tombstone - Version 1.20.1-8.6.8
   * #### CorgiLib - Version 1.20.1-4.0.2.0
   * #### Crafting Tweaks - Version 1.20.1-18.2.4
   * #### Create: Big Cannons - Version 5.5.0-mc.1.20.1
@@ -50,7 +50,7 @@
   * #### Create: Enchantment Industry - Version 1.2.9.d
   * #### Create: Factory Must Grow - Version 0.9.0d-1.20.1
   * #### Create: Ore Excavation - Version 1.20-1.5.0
-  * #### Create: Design n' Decor - Version 0.4-1.20.1
+  * #### Create: Design n' Decor - Version 0.4.0b-1.20.1
   * #### Create: Liquid Fuel - Version 2.1.1-1.20.1
   * #### Create: Slice & Dice - Version 3.2.1
   * #### Create: Steam 'n' Rails - Version 1.6.4+forge-mc1.20.1
@@ -83,14 +83,14 @@
   * #### Inventory Essentials - Version 1.20.1-8.2.6
   * #### Inventory HUD+ - Version 1.20.1-3.4.24
   * #### Jade - Version 1.20.1-forge-11.9.4
-  * #### Just Enough Effect Descriptions - Version 1.20-2.2.1
-  * #### Just Enough Items - Version 1.20.1-forge-15.8.2.25
+  * #### Just Enough Effect Descriptions - Version 1.20-2.2.2
+  * #### Just Enough Items - Version 1.20.1-forge-15.8.2.26
   * #### Kotlin for Forge - Version 4.11.0-all
   * #### KubeJS - Version 2001.6.5-build.14
   * #### KubeJS Offline Documentation - Version 4.0.2
   * #### L_Ender's Cataclysm - Version 1.99.6-1.20.1
   * #### L2 Library - Version 2.4.28
-  * #### Large Ore Deposits - Version 1.20.1-8.1.2.0-build.0424
+  * #### Large Ore Deposits - Version 1.20.1-8.1.2.1-build.0782
   * #### Lithostitched - Version 1.20.1-1.1.8
   * #### Login Protection - Version 1.20.1-3.4
   * #### Lootr - Version 1.20-0.7.34.86
@@ -98,12 +98,14 @@
   * #### Macaw's Bridges - Version 3.0.0-mc1.20.1forge
   * #### Macaw's Doors - Version 1.1.1forge-mc1.20.1
   * #### Macaw's Fences and Walls - Version 1.1.2-mc1.20.1forge
+  * #### Macaw's Furniture - Version 3.3.0-mc1.20.1forge
   * #### Macaw's Lights and Lamps - Version 1.1.0-mc1.20.1forge
   * #### Macaw's Paths and Pavings - Version 1.0.5-1.20.1forge
   * #### Macaw's Roofs - Version 2.3.1-mc1.20.1
   * #### Macaw's Trapdoors - Version 1.1.3-mc1.20.1forge
+  * #### Macaw's WIndows - Version 2.30-mc1.20.1forge
   * #### Max Health Fix - Version 1.20.1-12.0.3
-  * #### MmmMmmMmmMmm (Target Dummy) - Version 1.20-1.8.17b
+  * #### MmmMmmMmmMmm (Target Dummy) - Version 1.20-1.8.19
   * #### Moderately Enough Effect Descriptions - Version 1.20.1-4.7
   * #### ModernFix - Version 5.19.0+mc1.20.1
   * #### Moonlight Lib - Version 1.20-2.12.9-forge
@@ -293,6 +295,28 @@ _______________________________________
     </summary>
   
   * #### Born In Chaos - Nightmare Stalker
+
+ </details>
+</details>
+
+_______________________________________
+
+<details>
+  <br />
+    <summary>
+      <b>
+        Other Changes
+      </b>
+    </summary>
+  
+  * <details>
+    <summary>
+      Updated Main Menu
+    </summary>
+  
+    * #### Changed Button Layout
+    * #### Added Menu Music
+    * #### Changed Button Textures
 
  </details>
 <br />
