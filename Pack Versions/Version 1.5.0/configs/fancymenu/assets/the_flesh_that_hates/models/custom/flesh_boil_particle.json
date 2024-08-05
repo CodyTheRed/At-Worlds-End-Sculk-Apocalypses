@@ -1,0 +1,6 @@
+{
+  "parent": "the_flesh_that_hates:displaysettings/flesh_boil.item",
+  "textures": {
+    "particle": "the_flesh_that_hates:block/flesh_boil"
+  }
+}

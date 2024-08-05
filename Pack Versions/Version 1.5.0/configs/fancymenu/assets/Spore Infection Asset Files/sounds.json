@@ -1,0 +1,137 @@
+{
+  "corrupted_record" :{
+    "subtitle": "sounds.spore.record",
+    "sounds": [
+      "spore:corrupted_record"
+    ]
+  },
+"inf_damage" :{
+  "subtitle": "sounds.spore.damage",
+  "sounds": [
+    "spore:slash",
+    "spore:slash2"
+  ]
+},
+  "inf_growl" :{
+    "subtitle": "sounds.spore.growl",
+    "sounds": [
+      "spore:growl",
+      "spore:growl2"
+    ]
+  },
+  "howler_growl" :{
+    "subtitle": "sounds.spore.growl",
+    "sounds": [
+      "spore:howler"
+    ]
+  },
+  "inf_villager_damage" :{
+    "subtitle": "sounds.spore.damage",
+    "sounds": [
+      "spore:infected_villager_hurt"
+    ]
+  },
+  "inf_villager_growl" :{
+    "subtitle": "sounds.spore.growl",
+    "sounds": [
+      "spore:infected_villager_ambient"
+    ]
+  },
+  "inf_villager_death" :{
+    "subtitle": "sounds.spore.damage",
+    "sounds": [
+      "spore:infected_villager_death"
+    ]
+  },
+  "inf_evoker_damage" :{
+    "subtitle": "sounds.spore.damage",
+    "sounds": [
+      "spore:infected_evoker_hurt"
+    ]
+  },
+  "inf_evoker_growl" :{
+    "subtitle": "sounds.spore.growl",
+    "sounds": [
+      "spore:infected_evoker_ambient"
+    ]
+  },
+  "inf_evoker_death" :{
+    "subtitle": "sounds.spore.damage",
+    "sounds": [
+      "spore:infected_evoker_death"
+    ]
+  },
+  "braiomil_attack" :{
+    "subtitle": "sounds.spore.braiomil_attack",
+    "sounds": [
+      "spore:braiomil_attack"
+    ]
+  },
+  "fungal_burst" :{
+    "subtitle": "sounds.spore.fungal_burst",
+    "sounds": [
+      "spore:fungal_burst"
+    ]
+  },
+  "puff" :{
+    "subtitle": "sounds.spore.puff",
+    "sounds": [
+      "spore:puff"
+    ]
+  },
+  "womb_ambient" :{
+    "subtitle": "sounds.spore.womb_ambient",
+    "sounds": [
+      "spore:womb_ambient"
+    ]
+  },
+  "sieger_ambient" :{
+    "subtitle": "sounds.spore.sieger_ambient",
+    "sounds": [
+      "spore:sieger_ambient"
+    ]
+  },
+  "sieger_bite" :{
+    "subtitle": "sounds.spore.sieger_bite",
+    "sounds": [
+      "spore:sieger_bite"
+    ]
+  },
+  "proto_ambient" :{
+    "subtitle": "sounds.spore.proto_ambient",
+    "sounds": [
+      "spore:proto_ambient"
+    ]
+  },
+  "limb_slash" :{
+    "subtitle": "sounds.spore.limb_slash",
+    "sounds": [
+      "spore:limb_slash"
+    ]
+  },
+  "heart_beat" :{
+    "subtitle": "sounds.spore.heart_beat",
+    "sounds": [
+      "spore:heart_beat"
+    ]
+  },
+  "gazen_ambient" :{
+    "subtitle": "sounds.spore.gazen_ambient",
+    "sounds": [
+      "spore:gazen_ambient"
+    ]
+  },
+  "sonar" :{
+    "subtitle": "sounds.spore.sonar",
+    "sounds": [
+      "spore:sonar"
+    ]
+  },
+  "signal" :{
+    "subtitle": "sounds.spore.signal",
+    "sounds": [
+      "spore:signal"
+    ]
+  }
+
+}

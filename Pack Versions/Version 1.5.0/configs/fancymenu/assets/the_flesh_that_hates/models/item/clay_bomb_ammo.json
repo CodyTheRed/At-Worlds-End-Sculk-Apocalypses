@@ -1,0 +1,7 @@
+{
+  "parent": "the_flesh_that_hates:custom/clay_grenade",
+  "textures": {
+    "0": "the_flesh_that_hates:block/clay_grenade",
+    "particle": "the_flesh_that_hates:item/plaqueblock"
+  }
+}

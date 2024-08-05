@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "the_flesh_that_hates:block/flesh_shortgrass",
+    "particle": "the_flesh_that_hates:block/flesh_shortgrass"
+  },
+  "render_type": "cutout"
+}

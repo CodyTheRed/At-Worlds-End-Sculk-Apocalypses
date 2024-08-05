@@ -1,0 +1,9 @@
+{
+  "parent": "the_flesh_that_hates:custom/flesh_veins",
+  "textures": {
+    "all": "the_flesh_that_hates:block/flesh_veins",
+    "particle": "the_flesh_that_hates:block/flesh_veins",
+    "0": "the_flesh_that_hates:block/flesh_veins"
+  },
+  "render_type": "cutout"
+}

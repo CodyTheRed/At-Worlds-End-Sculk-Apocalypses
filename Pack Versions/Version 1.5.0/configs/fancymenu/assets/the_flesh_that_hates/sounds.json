@@ -1,0 +1,1318 @@
+{
+  "flesh_piece_idle": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:fleshidle",
+        "stream": false
+      }
+    ]
+  },
+  "flesh_hysterizer": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:humanagro",
+        "stream": false
+      }
+    ]
+  },
+  "flesh_human_idle": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:humanidleone",
+        "stream": false
+      }
+    ]
+  },
+  "flesh_community_idle": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:creaturethreeagro",
+        "stream": false
+      }
+    ]
+  },
+  "flesh_incubator_one": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:creaturethreeidle",
+        "stream": false
+      }
+    ]
+  },
+  "flesh_infector": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:smallplaqueidle",
+        "stream": false
+      }
+    ]
+  },
+  "flesh_walk": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:fleshwalk",
+        "stream": false
+      }
+    ]
+  },
+  "flesh_dog": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:swarmeragro",
+        "stream": false
+      }
+    ]
+  },
+  "flesh_cow_idle": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:fleshcow_idle",
+        "stream": false
+      }
+    ]
+  },
+  "flesh_pig_idle": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:fleshpig_idle",
+        "stream": false
+      }
+    ]
+  },
+  "flesh_sheep_idle": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:fleshsheep_idle",
+        "stream": false
+      }
+    ]
+  },
+  "flesh_hunter_i": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:skeletonplaqueidle",
+        "stream": false
+      }
+    ]
+  },
+  "incubator_spawn": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:nightmareplaqueidle",
+        "stream": false
+      }
+    ]
+  },
+  "flesh_suffer_idle": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:flesh_suffer_idle",
+        "stream": false
+      }
+    ]
+  },
+  "fleshhuntertwoidle": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:fleshhuntertwoidle",
+        "stream": false
+      }
+    ]
+  },
+  "fleshhuntertwoinvisattack": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:huntertwoinvisattack",
+        "stream": false
+      }
+    ]
+  },
+  "fleshboomeridle": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:fleshboomeridle",
+        "stream": false
+      }
+    ]
+  },
+  "fleshboomerboom": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:fleshboomerboom",
+        "stream": false
+      }
+    ]
+  },
+  "gohsound": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:fleshhatelookeffect_2",
+        "stream": false
+      }
+    ]
+  },
+  "suffer_ambient1": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:suffer_ambient1",
+        "stream": false
+      }
+    ]
+  },
+  "suffer_ambient2": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:suffer_ambient2",
+        "stream": false
+      }
+    ]
+  },
+  "suffer_ambient3": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:suffer_ambient3",
+        "stream": false
+      }
+    ]
+  },
+  "suffer_hurt1": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:suffer_hurt1",
+        "stream": false
+      }
+    ]
+  },
+  "suffer_hurt2": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:suffer_hurt2",
+        "stream": false
+      }
+    ]
+  },
+  "suffer_hurt3": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:suffer_hurt3",
+        "stream": false
+      }
+    ]
+  },
+  "suffer_death": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:suffer_death",
+        "stream": false
+      }
+    ]
+  },
+  "vindicator_ambient1": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:vindicator_ambient1",
+        "stream": false
+      }
+    ]
+  },
+  "vindicator_ambient2": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:vindicator_ambient2",
+        "stream": false
+      }
+    ]
+  },
+  "vindicator_ambient1aggro": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:vindicator_ambient1aggro",
+        "stream": false
+      }
+    ]
+  },
+  "vind_agr2": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:vindicator_ambient2aggro",
+        "stream": false
+      }
+    ]
+  },
+  "vind_hurt1": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:vindicator_hurt1",
+        "stream": false
+      }
+    ]
+  },
+  "vind_hurt2": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:vindicator_hurt2",
+        "stream": false
+      }
+    ]
+  },
+  "vind_death": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:vindicator_death",
+        "stream": false
+      }
+    ]
+  },
+  "cow_am1": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:cow_ambient1",
+        "stream": false
+      }
+    ]
+  },
+  "cow_am2": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:cow_ambient2",
+        "stream": false
+      }
+    ]
+  },
+  "cow_am3": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:cow_ambient3",
+        "stream": false
+      }
+    ]
+  },
+  "cow_hurt1": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:cow_hurt1",
+        "stream": false
+      }
+    ]
+  },
+  "cow_hurt2": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:cow_hurt2",
+        "stream": false
+      }
+    ]
+  },
+  "cow_death": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:cow_death",
+        "stream": false
+      }
+    ]
+  },
+  "sheep_am1": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:sheep_ambient1",
+        "stream": false
+      }
+    ]
+  },
+  "sheep_am2": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:sheep_ambient2",
+        "stream": false
+      }
+    ]
+  },
+  "sheep_am3": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:sheep_ambient3",
+        "stream": false
+      }
+    ]
+  },
+  "sheep_hurt1": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:sheep_hurt1",
+        "stream": false
+      }
+    ]
+  },
+  "sheep_hurt2": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:sheep_hurt2",
+        "stream": false
+      }
+    ]
+  },
+  "sheep_death": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:sheep_death",
+        "stream": false
+      }
+    ]
+  },
+  "pig_am1": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:pig_ambient1",
+        "stream": false
+      }
+    ]
+  },
+  "pig_am2": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:pig_ambient2",
+        "stream": false
+      }
+    ]
+  },
+  "pig_am3": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:pig_ambient3",
+        "stream": false
+      }
+    ]
+  },
+  "pig_hurt": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:pig_hurt",
+        "stream": false
+      }
+    ]
+  },
+  "pig_hurt2": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:pig_hurt2",
+        "stream": false
+      }
+    ]
+  },
+  "pig_hurt3": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:pig_hurt3",
+        "stream": false
+      }
+    ]
+  },
+  "pig_death": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:pig_death",
+        "stream": false
+      }
+    ]
+  },
+  "comm_am1": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:community_ambient1",
+        "stream": false
+      }
+    ]
+  },
+  "comm_am2": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:community_ambient2",
+        "stream": false
+      }
+    ]
+  },
+  "comm_am3": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:community_ambient3",
+        "stream": false
+      }
+    ]
+  },
+  "comm_agr1": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:community_ambient1aggro",
+        "stream": false
+      }
+    ]
+  },
+  "comm_agr2": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:community_ambient2aggro",
+        "stream": false
+      }
+    ]
+  },
+  "comm_hurt": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:community_hit",
+        "stream": false
+      }
+    ]
+  },
+  "comm_death": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:community_death",
+        "stream": false
+      }
+    ]
+  },
+  "infector_am1": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:infector_ambient1",
+        "stream": false
+      }
+    ]
+  },
+  "inf_am2": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:infector_ambient2",
+        "stream": false
+      }
+    ]
+  },
+  "inf_death": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:infector_death",
+        "stream": false
+      }
+    ]
+  },
+  "inf_h1": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:infector_hurt1",
+        "stream": false
+      }
+    ]
+  },
+  "inf_h2": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:infector_hurt2",
+        "stream": false
+      }
+    ]
+  },
+  "h1_a1": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:hunter_ambient",
+        "stream": false
+      }
+    ]
+  },
+  "h1_a2": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:hunter_ambient2",
+        "stream": false
+      }
+    ]
+  },
+  "h1_a1agr": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:hunter_ambient1aggro",
+        "stream": false
+      }
+    ]
+  },
+  "h1_a2agr": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:hunter_ambient2aggro",
+        "stream": false
+      }
+    ]
+  },
+  "h1_a3agr": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:hunter_ambient3aggro",
+        "stream": false
+      }
+    ]
+  },
+  "h1_death": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:hunter_death",
+        "stream": false
+      }
+    ]
+  },
+  "h2_a1": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:hunter2_ambient",
+        "stream": false
+      }
+    ]
+  },
+  "h2_a2": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:hunter2_ambient2",
+        "stream": false
+      }
+    ]
+  },
+  "flesh_hit": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:genericflesh_hit",
+        "stream": false
+      }
+    ]
+  },
+  "boomer_a1": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:boomer_ambient1",
+        "stream": false
+      }
+    ]
+  },
+  "boomer_a2": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:boomer_ambient2",
+        "stream": false
+      }
+    ]
+  },
+  "boomer_a3": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:boomer_ambient3",
+        "stream": false
+      }
+    ]
+  },
+  "boomer_expl1": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:boomer_explosion",
+        "stream": false
+      }
+    ]
+  },
+  "boomer_explstart": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:boomer_explosionstart",
+        "stream": false
+      }
+    ]
+  },
+  "human_a1": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:human_ambient1",
+        "stream": false
+      }
+    ]
+  },
+  "human_a2": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:human_ambient2",
+        "stream": false
+      }
+    ]
+  },
+  "human_a3": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:human_ambient3",
+        "stream": false
+      }
+    ]
+  },
+  "human_a1agr": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:human_ambientaggro1",
+        "stream": false
+      }
+    ]
+  },
+  "human_a2agr": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:human_ambientaggro2",
+        "stream": false
+      }
+    ]
+  },
+  "human_a3agr": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:human_ambientaggro3",
+        "stream": false
+      }
+    ]
+  },
+  "human_h1": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:human_hit1",
+        "stream": false
+      }
+    ]
+  },
+  "human_h2": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:human_hit2",
+        "stream": false
+      }
+    ]
+  },
+  "human_h3": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:human_hit3",
+        "stream": false
+      }
+    ]
+  },
+  "human_death": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:human_death",
+        "stream": false
+      }
+    ]
+  },
+  "hyster_a1": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:hysterizer_ambient1",
+        "stream": false
+      }
+    ]
+  },
+  "hyster_a2": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:hysterizer_ambient2",
+        "stream": false
+      }
+    ]
+  },
+  "hyster_a3": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:hysterizer_ambient3",
+        "stream": false
+      }
+    ]
+  },
+  "hyster_agr1": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:hysterizer_ambientaggro1",
+        "stream": false
+      }
+    ]
+  },
+  "hyster_agr2": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:hysterizer_ambientaggro2",
+        "stream": false
+      }
+    ]
+  },
+  "hyster_agr3": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:hysterizer_ambientaggro3",
+        "stream": false
+      }
+    ]
+  },
+  "hyst_att1": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:hysterizer_attack",
+        "stream": false
+      }
+    ]
+  },
+  "hyst_att2": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:hysterizer_attack2",
+        "stream": false
+      }
+    ]
+  },
+  "hyst_chainloop": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:hysterizer_chainloop",
+        "stream": false
+      }
+    ]
+  },
+  "hyst_death": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:hysterizer_death",
+        "stream": false
+      }
+    ]
+  },
+  "hyst_h1": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:hysterizer_hurt1",
+        "stream": false
+      }
+    ]
+  },
+  "hyst_h2": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:hysterizer_hurt2",
+        "stream": false
+      }
+    ]
+  },
+  "hyst_h3": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:hysterizer_hurt3",
+        "stream": false
+      }
+    ]
+  },
+  "incstart_a1": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:incubator_ambient1",
+        "stream": false
+      }
+    ]
+  },
+  "incstart_a2": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:incubator_ambient2",
+        "stream": false
+      }
+    ]
+  },
+  "incstart_spawn": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:incubator_spawn",
+        "stream": false
+      }
+    ]
+  },
+  "incub_death": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:incubator_death",
+        "stream": false
+      }
+    ]
+  },
+  "incub_evl": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:incubator_evolution",
+        "stream": false
+      }
+    ]
+  },
+  "incub_evlfinal": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:incubator_evolutionfinal",
+        "stream": false
+      }
+    ]
+  },
+  "incub_hurt": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:incubator_hurt",
+        "stream": false
+      }
+    ]
+  },
+  "incubone_a1": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:incubator_ambient1laststage",
+        "stream": false
+      }
+    ]
+  },
+  "incubone_a2": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:incubator_ambient2laststage",
+        "stream": false
+      }
+    ]
+  },
+  "justice_a1": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:justice_ambient1",
+        "stream": false
+      }
+    ]
+  },
+  "justice_a2": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:justice_ambient2",
+        "stream": false
+      }
+    ]
+  },
+  "justice_a3": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:justice_ambient3",
+        "stream": false
+      }
+    ]
+  },
+  "justice_h1": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:justice_hurt1",
+        "stream": false
+      }
+    ]
+  },
+  "justice_h2": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:justice_hurt2",
+        "stream": false
+      }
+    ]
+  },
+  "justice_death": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:justice_death",
+        "stream": false
+      }
+    ]
+  },
+  "dog_a1": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:dog_ambient1",
+        "stream": false
+      }
+    ]
+  },
+  "dog_a2": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:dog_ambient2",
+        "stream": false
+      }
+    ]
+  },
+  "dog_aa1": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:dog_ambient1aggro",
+        "stream": false
+      }
+    ]
+  },
+  "dog_aa2": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:dog_ambient2aggro",
+        "stream": false
+      }
+    ]
+  },
+  "dog_h1": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:dog_hurt1",
+        "stream": false
+      }
+    ]
+  },
+  "dog_h2": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:dog_hurt2",
+        "stream": false
+      }
+    ]
+  },
+  "dog_death": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:dog_death",
+        "stream": false
+      }
+    ]
+  },
+  "cocoon_a": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:cocoon_regen",
+        "stream": false
+      }
+    ]
+  },
+  "cocoon_placement": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:cocoon_placement",
+        "stream": false
+      }
+    ]
+  },
+  "cocoon_death": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:cocoon_death",
+        "stream": false
+      }
+    ]
+  },
+  "cocoon_successful": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:cocoon_successful",
+        "stream": false
+      }
+    ]
+  },
+  "gallbladder": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:gallbladder",
+        "stream": false
+      }
+    ]
+  },
+  "epiglottis": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:epiglottis",
+        "stream": false
+      }
+    ]
+  },
+  "fossa": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:fossa",
+        "stream": false
+      }
+    ]
+  },
+  "theyfound": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:theyfound",
+        "stream": false
+      }
+    ]
+  },
+  "unseen_ambient1": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:unseen_ambient2",
+        "stream": false
+      }
+    ]
+  },
+  "unseen_ambient2": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:unseen_ambient3",
+        "stream": false
+      }
+    ]
+  },
+  "unseen_ambient3": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:unseen_ambient1",
+        "stream": false
+      }
+    ]
+  },
+  "unseen_sensing1": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:unseen_sensing1",
+        "stream": false
+      }
+    ]
+  },
+  "unseen_sensing2": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:unseen_sensing2",
+        "stream": false
+      }
+    ]
+  },
+  "unseen_sensing3": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:unseen_sensing3",
+        "stream": false
+      }
+    ]
+  },
+  "block_hard_step": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:hard_step",
+        "stream": false
+      }
+    ]
+  },
+  "meatbreak": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:meatbreak",
+        "stream": false
+      }
+    ]
+  },
+  "meatdig1": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:meatdig1",
+        "stream": false
+      }
+    ]
+  },
+  "meatdig2": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:meatdig2",
+        "stream": false
+      }
+    ]
+  },
+  "meatdig3": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:meatdig3",
+        "stream": false
+      }
+    ]
+  },
+  "soft_step": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:soft_step",
+        "stream": false
+      }
+    ]
+  },
+  "softmeatdig1": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:softmeatdig1",
+        "stream": false
+      }
+    ]
+  },
+  "softmeatdig2": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:softmeatdig2",
+        "stream": false
+      }
+    ]
+  },
+  "softmeatdig3": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:softmeatdig3",
+        "stream": false
+      }
+    ]
+  },
+  "bonebreak": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:bonebreak",
+        "stream": false
+      }
+    ]
+  },
+  "bonedig1": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:bonedig1",
+        "stream": false
+      }
+    ]
+  },
+  "bonedig2": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:bonedig2",
+        "stream": false
+      }
+    ]
+  },
+  "bonedig3": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:bonedig3",
+        "stream": false
+      }
+    ]
+  },
+  "infection_block": {
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:infectblock",
+        "stream": false
+      }
+    ]
+  },
+  "transform1": {
+    "subtitle": "subtitles.transform1",
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:transform1",
+        "stream": false
+      }
+    ]
+  },
+  "transform2": {
+    "subtitle": "subtitles.transform2",
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:transform2",
+        "stream": false
+      }
+    ]
+  },
+  "transform3": {
+    "subtitle": "subtitles.transform3",
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:transform3",
+        "stream": false
+      }
+    ]
+  },
+  "transform4": {
+    "subtitle": "subtitles.transform4",
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:transform4",
+        "stream": false
+      }
+    ]
+  },
+  "transform5": {
+    "subtitle": "subtitles.transform5",
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:transform5",
+        "stream": false
+      }
+    ]
+  },
+  "transform6": {
+    "subtitle": "subtitles.transform6",
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:transform6",
+        "stream": false
+      }
+    ]
+  },
+  "transform7": {
+    "subtitle": "subtitles.transform7",
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:transform7",
+        "stream": false
+      }
+    ]
+  },
+  "phase_embryo": {
+    "subtitle": "subtitles.phase_embryo",
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:incubator_evolutionembryo_1",
+        "stream": true
+      }
+    ]
+  },
+  "phase_biogenesis": {
+    "subtitle": "subtitles.phase_biogenesis",
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:incubator_evolutionbiogenesis_1",
+        "stream": true
+      }
+    ]
+  },
+  "phase_enlight": {
+    "subtitle": "subtitles.phase_enlight",
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:incubator_evolutionenlightment_1",
+        "stream": true
+      }
+    ]
+  },
+  "phase_biotransform": {
+    "subtitle": "subtitles.phase_biotransform",
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:incubator_evolutionbiotransformation_1",
+        "stream": true
+      }
+    ]
+  },
+  "phase_synthesis": {
+    "subtitle": "subtitles.phase_synthesis",
+    "sounds": [
+      {
+        "name": "the_flesh_that_hates:incubator_evolutionsynthesis_1",
+        "stream": true
+      }
+    ]
+  }
+}

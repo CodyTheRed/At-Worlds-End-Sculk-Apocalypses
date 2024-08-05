@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "the_flesh_that_hates:block/flesh_pile",
+    "up": "the_flesh_that_hates:block/flesh_pile",
+    "north": "the_flesh_that_hates:block/flesh_pile",
+    "east": "the_flesh_that_hates:block/flesh_pile",
+    "south": "the_flesh_that_hates:block/flesh_pile",
+    "west": "the_flesh_that_hates:block/flesh_pile",
+    "particle": "the_flesh_that_hates:block/flesh_pile"
+  },
+  "render_type": "solid"
+}

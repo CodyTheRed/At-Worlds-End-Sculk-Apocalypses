@@ -1,0 +1,131 @@
+type = customizablemenus
+
+net.minecraft.client.gui.screens.ConnectScreen {
+}
+
+net.minecraft.client.gui.screens.TitleScreen {
+}
+
+net.minecraft.client.gui.screens.worldselection.SelectWorldScreen {
+}
+
+net.minecraft.client.gui.screens.multiplayer.JoinMultiplayerScreen {
+}
+
+net.minecraftforge.client.gui.ModListScreen {
+}
+
+net.minecraft.client.gui.screens.OptionsScreen {
+}
+
+net.minecraft.client.gui.screens.WinScreen {
+}
+
+net.minecraft.client.gui.screens.CreditsAndAttributionScreen {
+}
+
+net.minecraft.client.gui.screens.OnlineOptionsScreen {
+}
+
+net.minecraft.client.gui.screens.worldselection.CreateWorldScreen {
+}
+
+net.minecraft.client.gui.screens.worldselection.EditGameRulesScreen {
+}
+
+net.minecraft.client.gui.screens.worldselection.ExperimentsScreen {
+}
+
+net.minecraft.client.gui.screens.packs.PackSelectionScreen {
+}
+
+net.minecraft.client.gui.screens.CreateFlatWorldScreen {
+}
+
+net.minecraft.client.gui.screens.PresetFlatWorldScreen {
+}
+
+net.minecraft.client.gui.screens.worldselection.EditWorldScreen {
+}
+
+net.minecraft.client.gui.screens.BackupConfirmScreen {
+}
+
+net.minecraft.client.gui.screens.SkinCustomizationScreen {
+}
+
+com.teamabnormals.blueprint.client.screen.SlabfishHatScreen {
+}
+
+net.minecraft.client.gui.screens.SoundOptionsScreen {
+}
+
+net.minecraft.client.gui.screens.controls.ControlsScreen {
+}
+
+net.minecraft.client.gui.screens.MouseSettingsScreen {
+}
+
+com.blamejared.controlling.client.NewKeyBindsScreen {
+}
+
+net.minecraft.client.gui.screens.LanguageSelectScreen {
+}
+
+net.minecraft.client.gui.screens.ChatOptionsScreen {
+}
+
+net.minecraft.client.gui.screens.AccessibilityOptionsScreen {
+}
+
+net.minecraft.client.gui.screens.telemetry.TelemetryInfoScreen {
+}
+
+org.vivecraft.client.gui.settings.GuiMainVRSettings {
+}
+
+org.vivecraft.client.gui.settings.GuiRenderOpticsSettings {
+}
+
+org.vivecraft.client.gui.settings.GuiQuickCommandEditor {
+}
+
+org.vivecraft.client.gui.settings.GuiHUDSettings {
+}
+
+org.vivecraft.client.gui.settings.GuiKeyboardSettings {
+}
+
+org.vivecraft.client.gui.settings.GuiMenuWorldSettings {
+}
+
+org.vivecraft.client.gui.settings.GuiOtherHUDSettings {
+}
+
+org.vivecraft.client.gui.settings.GuiStandingSettings {
+}
+
+org.vivecraft.client.gui.settings.GuiTeleportSettings {
+}
+
+org.vivecraft.client.gui.settings.GuiFreeMoveSettings {
+}
+
+org.vivecraft.client.gui.settings.GuiRadialConfiguration {
+}
+
+org.vivecraft.client.gui.settings.GuiRoomscaleSettings {
+}
+
+net.minecraft.client.gui.screens.LevelLoadingScreen {
+}
+
+net.minecraft.client.gui.screens.GenericDirtMessageScreen {
+}
+
+net.minecraft.client.gui.screens.ProgressScreen {
+}
+
+net.minecraft.client.gui.screens.ReceivingLevelScreen {
+}
+

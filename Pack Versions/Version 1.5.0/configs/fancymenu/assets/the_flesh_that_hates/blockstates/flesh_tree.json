@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "the_flesh_that_hates:block/flesh_tree",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "the_flesh_that_hates:block/flesh_tree"
+    },
+    "axis=z": {
+      "model": "the_flesh_that_hates:block/flesh_tree",
+      "x": 90
+    }
+  }
+}

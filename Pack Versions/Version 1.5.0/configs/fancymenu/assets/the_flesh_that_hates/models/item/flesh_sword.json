@@ -1,0 +1,31 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "the_flesh_that_hates:item/flesh_sword"
+  },
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [-23.21, -87.14, 14.62],
+      "translation": [0.5, 7.25, 2],
+      "scale": [1, 0.97266, 1]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [69.29, -87.14, 14.62],
+      "translation": [0.5, 7.25, 2],
+      "scale": [1, 0.97266, 1]
+    },
+    "firstperson_righthand": {
+      "rotation": [-23.21, -87.14, 14.62],
+      "translation": [-0.5, 5.5, 1.5],
+      "scale": [0.75195, 0.93945, 1]
+    },
+    "firstperson_lefthand": {
+      "rotation": [23.21, -87.14, -14.62],
+      "translation": [-0.5, 5.5, 1.5],
+      "scale": [0.75195, 0.93945, 1]
+    },
+    "ground": {
+      "scale": [0.82227, 0.69336, 0.9375]
+    }
+  }
+}

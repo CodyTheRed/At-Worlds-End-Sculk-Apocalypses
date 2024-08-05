@@ -1,0 +1,7 @@
+
+{
+  "parent": "the_flesh_that_hates:displaysettings/flesh_spikes.item",
+  "textures": {
+    "particle": "the_flesh_that_hates:block/flesh_spikes"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "the_flesh_that_hates:custom/hysterizerrevenge",
+  "textures": {
+    "0": "the_flesh_that_hates:block/hysterizerrevenge",
+    "particle": "the_flesh_that_hates:item/plaqueblock"
+  }
+}

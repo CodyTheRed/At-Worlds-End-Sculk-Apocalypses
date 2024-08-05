@@ -1,0 +1,42 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.flesh_forge",
+				"texture_width": 128,
+				"texture_height": 128,
+				"visible_bounds_width": 3,
+				"visible_bounds_height": 3.5,
+				"visible_bounds_offset": [0, 1.25, 0]
+			},
+			"bones": [
+				{
+					"name": "body",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{"origin": [-6.4, -0.2, -6.4], "size": [12.8, 12.8, 12.8], "uv": [0, 0]}
+					]
+				},
+				{
+					"name": "bone",
+					"parent": "body",
+					"pivot": [0, 9.5, -1],
+					"rotation": [-22.5, 0, 0],
+					"cubes": [
+						{"origin": [-5.1, 10.6, -6.1], "size": [10.2, 10.2, 10.2], "uv": [30, 34]}
+					]
+				},
+				{
+					"name": "bone2",
+					"parent": "bone",
+					"pivot": [0, 18.52805, -2.22736],
+					"rotation": [45, 0, 0],
+					"cubes": [
+						{"origin": [-5.1, 17.74136, -6.40794], "size": [10.2, 10.2, 10.2], "inflate": 0.001, "uv": [0, 24]}
+					]
+				}
+			]
+		}
+	]
+}

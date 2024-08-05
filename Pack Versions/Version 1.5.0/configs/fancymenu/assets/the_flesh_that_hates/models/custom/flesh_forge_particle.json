@@ -1,0 +1,6 @@
+{
+  "parent": "the_flesh_that_hates:displaysettings/flesh_forge.item",
+  "textures": {
+    "particle": "the_flesh_that_hates:block/flesh_forge"
+  }
+}
