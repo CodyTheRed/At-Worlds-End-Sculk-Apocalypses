@@ -43,7 +43,7 @@
   * #### Corail Tombstone - Version 1.20.1-8.6.8
   * #### CorgiLib - Version 1.20.1-4.0.2.0
   * #### Crafting Tweaks - Version 1.20.1-18.2.4
-  * #### Create: Big Cannons - Version 5.5.0-mc.1.20.1
+  * #### Create: Big Cannons - Version 5.5.1-mc.1.20.1
   * #### Create: Crafts & Additions - Version 1.20.1-1.2.4d
   * #### Create: Deco - Version 2.0.2-1.20.1-forge
   * #### Create: Encased - Version 1.20.1-1.6.1-fix1
@@ -60,8 +60,8 @@
   * #### Deep Dark: Regrowth - Version 1.2.6.1-1.20.1
   * #### Electrodynamics - Version 1.20.1-0.9.1-0
   * #### Embeddium - Version 0.3.28+mc1.20.1
-  * #### Enchantment Descriptions - Version 1.20.1-17.0.16
-  * #### Enhanced AI - Version 2.4.7-mc1.20.1
+  * #### Enchantment Descriptions - Version 1.20.1-17.0.18
+  * #### Enhanced AI - Version 2.4.8-mc1.20.1
   * #### Enhanced Celestials - Version 1.20.1-5.0.0.4
   * #### Enhanced Visuals - Version 1.8.1_mc1.20.1
   * #### Extreme Sound Muffler - Version 3.48-forge-1.20.1
@@ -84,7 +84,7 @@
   * #### Inventory HUD+ - Version 1.20.1-3.4.24
   * #### Jade - Version 1.20.1-forge-11.9.4
   * #### Just Enough Effect Descriptions - Version 1.20-2.2.2
-  * #### Just Enough Items - Version 1.20.1-forge-15.8.2.26
+  * #### Just Enough Items - Version 1.20.1-forge-15.10.0.35
   * #### Kotlin for Forge - Version 4.11.0-all
   * #### KubeJS - Version 2001.6.5-build.14
   * #### KubeJS Offline Documentation - Version 4.0.2
