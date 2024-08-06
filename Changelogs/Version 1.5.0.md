@@ -181,6 +181,7 @@
       Mods Added 
     </summary>
   
+  * #### AppleSkin - Version 1.20.1-2.5.1
   * #### Better Cave Dweller - Version 1.20.1
   * #### Better Safe Bed - Version 1.20-9
   * #### Create: Connected - Version 0.8.2-mc1.20.1-all
