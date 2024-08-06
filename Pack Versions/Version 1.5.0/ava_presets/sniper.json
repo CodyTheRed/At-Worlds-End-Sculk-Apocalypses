@@ -1,0 +1,10 @@
+{
+  "primary": "ava:fr_f2",
+  "primary2": "ava:sr_25",
+  "secondary": "ava:fn57",
+  "melee": "ava:field_knife",
+  "projectile": "ava:m18_grey",
+  "projectile2": "ava:m116a1",
+  "projectile3": "ava:mk3a2",
+  "special": "ava:binocular"
+}

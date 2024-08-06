@@ -31,8 +31,8 @@ glintStrength:0.75
 damageTiltStrength:1.0
 highContrast:false
 gamma:1.0
-renderDistance:12
-simulationDistance:12
+renderDistance:11
+simulationDistance:13
 entityDistanceScaling:1.0
 guiScale:3
 particles:0
@@ -42,8 +42,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"false"
-resourcePacks:["vanilla","mod_resources"]
-incompatibleResourcePacks:[]
+resourcePacks:["vanilla","mod_resources","Moonlight Mods Dynamic Assets","fabric","file/FreshAnimations_v1.9.2.zip","file/Better Spiders.zip","file/Blues_Better_Monsters_v0.05.zip","file/boss-refreshed-v1.3.zip"]
+incompatibleResourcePacks:["file/Blues_Better_Monsters_v0.05.zip","file/boss-refreshed-v1.3.zip"]
 lastServer:
 lang:en_us
 soundDevice:""
@@ -53,8 +53,8 @@ chatLineSpacing:0.0
 textBackgroundOpacity:0.5
 backgroundForChatOnly:true
 hideServerAddress:false
-advancedItemTooltips:false
-pauseOnLostFocus:true
+advancedItemTooltips:true
+pauseOnLostFocus:false
 overrideWidth:0
 overrideHeight:0
 chatHeightFocused:1.0
@@ -85,11 +85,11 @@ panoramaScrollSpeed:1.0
 telemetryOptInExtra:false
 onboardAccessibility:false
 soundCategory_master:1.0
-soundCategory_music:0.0
+soundCategory_music:0.5046948356807511
 soundCategory_record:1.0
-soundCategory_weather:1.0
+soundCategory_weather:0.5046948356807511
 soundCategory_block:1.0
-soundCategory_hostile:0.5093896713615024
+soundCategory_hostile:1.0
 soundCategory_neutral:1.0
 soundCategory_player:1.0
 soundCategory_ambient:1.0

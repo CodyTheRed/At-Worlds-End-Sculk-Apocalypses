@@ -1,0 +1,10 @@
+{
+  "primary": "ava:m4a1",
+  "primary2": "ava:m16_vn",
+  "secondary": "ava:colt_saa",
+  "melee": "ava:field_knife",
+  "projectile": "ava:m18_grey",
+  "projectile2": "ava:m116a1",
+  "projectile3": "ava:m67",
+  "special": "ava:binocular"
+}

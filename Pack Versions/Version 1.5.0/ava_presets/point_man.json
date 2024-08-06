@@ -1,0 +1,10 @@
+{
+  "primary": "ava:x95r",
+  "primary2": "ava:remington870",
+  "secondary": "ava:beretta_92fs",
+  "melee": "ava:field_knife",
+  "projectile": "ava:m18_grey",
+  "projectile2": "ava:m116a1",
+  "projectile3": "ava:m67",
+  "special": "ava:binocular"
+}
