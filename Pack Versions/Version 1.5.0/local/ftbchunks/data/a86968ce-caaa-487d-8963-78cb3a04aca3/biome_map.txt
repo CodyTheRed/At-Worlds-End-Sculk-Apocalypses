@@ -1,0 +1,8 @@
+#556 minecraft:beach
+#184 terralith:brushland
+#1A6 terralith:cave/granite_caves
+#4B0 minecraft:jungle
+#79A minecraft:lukewarm_ocean
+#5FF minecraft:river
+#67B minecraft:savanna
+#3AF minecraft:sparse_jungle
