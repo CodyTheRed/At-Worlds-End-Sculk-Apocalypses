@@ -266,7 +266,10 @@ _______________________________________
       Removed Recipes
     </summary>
   
-  * #### Blocky Seige - Mortar
+  * #### Blocky Siege - Mortars & Related Recipes
+  * #### Create:Encased - Chorium Ingots & Related Recipes
+  * #### Create:Encased - Creative Casings & Related Recipes
+  * #### Forbidden & Arcanus- Obsidian Skull & Related Recipes
 
 </details>
 
