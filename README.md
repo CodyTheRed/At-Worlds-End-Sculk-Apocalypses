@@ -37,7 +37,7 @@ At World's End: Sculk Apocalypse is a survival horror pack focused on curing the
 
 <!--- ✔️ and a little bit of magic! --->
 
-The main concept and focus of this pack is survival. Nothing is going to be easy, and everything wants yuou dead. Are you up for the challenge?
+The main concept and focus of this pack is survival. Nothing is going to be easy, and everything wants you dead. Are you up for the challenge?
 
 
 ## **Essential elements of the pack:**
