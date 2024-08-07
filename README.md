@@ -18,7 +18,7 @@
 
 # **Features:**
 
-At World's End: Sculk Apocalypse is a survival horror pack focused on curing the dying world. Face the horrors alone, or with friends, as you try to survive the brutal mobs and fast spreading plagues. With over 250 mods, countless new mobs and bosses, custom recipes, and quests tailored to help you stop the horrors of the world, you will be challeneged (and will possibly hate the pack, or myself). 
+At World's End: Sculk Apocalypse is a survival horror pack focused on curing the dying world. Face the horrors alone, or with friends, as you try to survive the brutal mobs and fast spreading plagues. With over 250 mods, countless new mobs and bosses, custom recipes, and quests tailored to help you stop the horrors of the world, you will be challenged (and will possibly hate the pack, or myself). 
  
 
 <break/>
