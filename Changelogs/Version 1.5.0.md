@@ -36,8 +36,8 @@
   * #### Chunk Pregenerator - Version 1.20-4.4.4
   * #### Citadel - Version 2.5.6-1.20.1
   * #### Clickable Advancements - Version 1.20.1-3.8
-  * #### Collective - Version 1.20.1-7.80
-  * #### Colorful Hearts - Version 1.20.1-4.2.13
+  * #### Collective - Version 1.20.1-7.81
+  * #### Colorful Hearts - Version 1.20.1-4.2.14
   * #### Connectivity - Version 1.20.1-5.6
   * #### Cooking For Blockheads - Version 1.20.1-16.0.6
   * #### Corail Tombstone - Version 1.20.1-8.6.8
@@ -84,7 +84,7 @@
   * #### Inventory HUD+ - Version 1.20.1-3.4.24
   * #### Jade - Version 1.20.1-forge-11.9.4
   * #### Just Enough Effect Descriptions - Version 1.20-2.2.2
-  * #### Just Enough Items - Version 1.20.1-forge-15.10.0.40
+  * #### Just Enough Items - Version 1.20.1-forge-15.10.0.44
   * #### Kotlin for Forge - Version 4.11.0-all
   * #### KubeJS - Version 2001.6.5-build.14
   * #### KubeJS Offline Documentation - Version 4.0.2
@@ -115,7 +115,7 @@
   * #### Nuclear Science - Version 1.20.1-0.6.1-0
   * #### Oculus - Version mc1.20.1-1.7.0
   * #### Placebo - Version 1.20.1-8.6.2
-  * #### PneumaticCraft: Repressurized - Version 6.0.15+mc1.20.1
+  * #### PneumaticCraft: Repressurized - Version 6.0.16+mc1.20.1
   * #### PolyLib - Version 2000.0.3-build.143
   * #### Polymorph - Version 0.49.5+1.20.1
   * #### Ponder for KubeJS - Version 1.20.1-1.4.0
@@ -126,7 +126,7 @@
   * #### Refined Polymorphism - Version 0.1.1-1.20.1
   * #### Resourceful Lib - Version 1.20.1-2.1.28
   * #### Savage Ender Dragon - Version 1.20.1-4.6
-  * #### Sculk Horde - Version 1.20.1-0.9.9
+  * #### Sculk Horde - Version 1.20.1-0.9.11
   * #### Searchables - Version 1.20.1-1.0.3
   * #### ShetiPhianCore - Version 1.20.1-1.3
   * #### Sinytra Connector - Version 1.00-beta.45+1.20.1
@@ -188,7 +188,7 @@
   * #### Create: Ender Transmission - Version 2.0.7-1.20.1
   * #### Doctor Who Weeping Angels - Version 46.0.2
   * #### [EMF] Entity Model Features - Version 1.20.1-2.1.3
-  * #### [ETF] Entity Texture Features - Version 1.20.1-6.1.3
+  * #### [ETF] Entity Texture Features - Version 1.20.1-6.1.4
   * #### Flesh That Hates - Version 1.1b
   * #### Horror Elements Mod - Version 1.5.9_1.20.1
   * #### Modular Force Field System - Version 5.1.9-all
