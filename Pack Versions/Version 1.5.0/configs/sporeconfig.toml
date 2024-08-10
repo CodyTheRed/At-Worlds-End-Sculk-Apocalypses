@@ -1,9 +1,9 @@
 
 [Compatibilities]
 	#Default false
-	"Should there be a compatibility with FAW?" = True
+	"Should there be a compatibility with FAW?" = true
 	#Default false
-	"Should there be a compatibility with Sculk Infection?" = True
+	"Should there be a compatibility with Sculk Infection?" = true
 
 ["Griefing Parameters"]
 	"The block breaking hardness of calamities" = 5
