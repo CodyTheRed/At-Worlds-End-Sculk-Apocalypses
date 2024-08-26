@@ -79,7 +79,6 @@
   * #### Flat Bedrock
   * #### HT's TreeChop
   * #### Ice and Fire: Dragons
-  * #### SCP-015-IT, The Boogeyman
   * #### SCP-035, The Possessive Mask
   * #### SCP-087, The Stairwell
   * #### SCP-093, Red Sea Object
