@@ -46,7 +46,8 @@
   * #### Large Ore Deposits - Version 1.20.1-8.1.3.0-build.0820
   * #### Lootr - Version 1.20-0.7.34.89
   * #### Modern Fix - Version 5.19.3+mc1.20.1
-  * #### Moonlight - Version 1.20-2.12.16
+  * #### Moonlight - Version 1.20-2.12.17
+  * #### Puzzles Lib - Version v8.1.22-1.20.1-forge
   * #### ProbeJS - Version 6.0.1
   * #### Quests Additions - Version 1.4.3
   * #### Resourceful Lib - Version 1.20.1-2.1.29
@@ -56,6 +57,7 @@
   * #### Sophisticated Backpacks - Version 1.20.1-3.20.6.1064
   * #### Sophisticated Core - Version 1.20.1-0.6.25.632
   * #### Sophisticated Storage - Version 1.20.1-0.10.26.817
+  * #### SuperMartin642's Core Lib - Version 1.1.17a-forge-mc1.20.1
   * ### The Anomaly - Version 1.1.2
   * #### Waystones - Version 1.20-14.1.5
     
@@ -67,8 +69,9 @@
       Mods Removed
     </summary>
   
-  * #### Doctor Who: Weeping Angels
-  * #### Eyes In The Darkness
+  * #### Doctor Who: Weeping Angels (Replaced with SCP-173)
+  * #### Eyes In The Darkness (Replaced With SCP-280)
+  * #### The Flesh That Hates (Awaiting Mob-Spawn Fix)
 
   </details> 
 <br />
@@ -78,9 +81,11 @@
       Mods Added 
     </summary>
   
+  * #### Entity Culling
   * #### Flat Bedrock
   * #### HT's TreeChop
   * #### Ice and Fire: Dragons
+  * #### Let Me Despawn
   * #### SCP-035, The Possessive Mask
   * #### SCP-087, The Stairwell
   * #### SCP-093, Red Sea Object
