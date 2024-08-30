@@ -25,12 +25,12 @@
   * #### Collective - Version 1.20.1-7.84
   * #### Colorful Hearts - Version 1.20.1-4.3.15
   * #### Corail Tombstone - Version 1.20.1-8.7.1
-  * #### CorgiLib - Version 1.20.1-4.0.3.0
+  * #### CorgiLib - Version 1.20.1-4.0.3.1
   * #### Crafting Tweaks - Version 1.20.1-18.2.5
   * #### Create: Crafts & Additions - Version 1.2.4e
   * #### Create: The Factory Must Grow - Version 0.9.1c-1.20.1
   * #### Creative Core - Version v2.11.37_mc1.20.1
-  * #### Deeper and Darker - Version 1.20.1-1.3.0
+  * #### Deeper and Darker - Version 1.20.1-1.3.1
   * #### Embeddium - Version 0.3.30+mc1.20.1
   * #### Entity Model Features - Version 1.20.1-2.2.2
   * #### Entity Texture Features - Version 1.20.1-6.2.2
@@ -45,7 +45,7 @@
   * #### Just Enough Items - Version 15.14.0.64
   * #### Large Ore Deposits - Version 1.20.1-8.1.3.0-build.0820
   * #### Lootr - Version 1.20-0.7.34.89
-  * #### Modern Fix - Version 5.19.3+mc1.20.1
+  * #### Modern Fix - Version 5.19.4+mc1.20.1
   * #### Moonlight - Version 1.20-2.12.17
   * #### Puzzles Lib - Version v8.1.22-1.20.1-forge
   * #### ProbeJS - Version 6.0.1
@@ -57,6 +57,7 @@
   * #### Sophisticated Backpacks - Version 1.20.1-3.20.6.1064
   * #### Sophisticated Core - Version 1.20.1-0.6.25.632
   * #### Sophisticated Storage - Version 1.20.1-0.10.26.817
+  * #### Spawn Balance Utility - Version 1.20-46.13.6
   * #### SuperMartin642's Core Lib - Version 1.1.17a-forge-mc1.20.1
   * ### The Anomaly - Version 1.1.2
   * #### Waystones - Version 1.20-14.1.5
