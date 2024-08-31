@@ -30,6 +30,7 @@
   * #### Create: Crafts & Additions - Version 1.2.4e
   * #### Create: The Factory Must Grow - Version 0.9.1c-1.20.1
   * #### Creative Core - Version v2.11.37_mc1.20.1
+  * #### Curios API - Version 5.10.0+1.20.1
   * #### Deeper and Darker - Version 1.20.1-1.3.1
   * #### Embeddium - Version 0.3.30+mc1.20.1
   * #### Entity Model Features - Version 1.20.1-2.2.2
@@ -42,14 +43,14 @@
   * #### Horror Elements Mod - Version 1.6.0-forge-1.20.1
   * #### Inventory HUD+ - Version 1.20.1-3.4.26
   * #### Jade🔍 - Version 11.11.1
-  * #### Just Enough Items - Version 15.14.0.64
+  * #### Just Enough Items - Version 15.14.0.65
   * #### Large Ore Deposits - Version 1.20.1-8.1.3.0-build.0820
   * #### Lootr - Version 1.20-0.7.34.89
   * #### Modern Fix - Version 5.19.4+mc1.20.1
   * #### Moonlight - Version 1.20-2.12.17
   * #### Puzzles Lib - Version v8.1.22-1.20.1-forge
   * #### ProbeJS - Version 6.0.1
-  * #### Quests Additions - Version 1.4.3
+  * #### Quests Additions - Version 1.4.4
   * #### Resourceful Lib - Version 1.20.1-2.1.29
   * #### Rhino - version 2001.2.3-build.6
   * #### Sculk Horde - Version 1.20.1-0.9.13
