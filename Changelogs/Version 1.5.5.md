@@ -99,7 +99,6 @@
   * #### SCP-372, The Peripheral Jumper
   * #### SCP-939, With Many Voices
   * #### SCP-2863, Starving Skeletons
-  * #### SCP-4975, The Cuckoo Clock
   * #### Siren Head: The Arrival
   * #### Subnautica Flow
   * #### You Died
