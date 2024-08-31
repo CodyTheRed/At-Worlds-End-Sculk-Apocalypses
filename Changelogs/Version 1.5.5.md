@@ -50,7 +50,6 @@
   * #### Moonlight - Version 1.20-2.12.17
   * #### Puzzles Lib - Version v8.1.22-1.20.1-forge
   * #### ProbeJS - Version 6.0.1
-  * #### Quests Additions - Version 1.4.4
   * #### Resourceful Lib - Version 1.20.1-2.1.29
   * #### Rhino - version 2001.2.3-build.6
   * #### Sculk Horde - Version 1.20.1-0.9.13
