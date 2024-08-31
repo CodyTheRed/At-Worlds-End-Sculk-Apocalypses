@@ -89,7 +89,7 @@
   * #### HT's TreeChop
   * #### Ice and Fire: Dragons
   * #### Let Me Despawn
-  * #### MCDoom (AWAITING MOD UPDATE) 
+  * #### MCDoom 
   * #### SCP-035, The Possessive Mask
   * #### SCP-087, The Stairwell
   * #### SCP-093, Red Sea Object
