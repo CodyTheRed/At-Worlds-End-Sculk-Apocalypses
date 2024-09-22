@@ -19,22 +19,35 @@
 
   * #### Apotheosis - Version 1.20.1-7.4.2
   * #### Apothic Attributes - Version 1.20.1-1.3.7
+  * #### Artifacts - Version 9.5.13
+  * #### AzureLib - Version 1.20.1-2.0.35
   * #### Balm - Version 1.20.1-7.3.9-all
   * #### Better Combat - Version 1.8.6+1.20.1
+  * #### BetterFPS - Version 1.20.1-6.0
   * #### Citadel - Version 2.6.0-1.20.1
+  * #### ChoiceTheorem's Overhauled Village - Version 3.4.9
+  * #### Cloth Config API - Version 11.1.136-forge
   * #### Collective - Version 1.20.1-7.84
-  * #### Colorful Hearts - Version 1.20.1-4.3.15
-  * #### Corail Tombstone - Version 1.20.1-8.7.1
-  * #### CorgiLib - Version 1.20.1-4.0.3.1
+  * #### Colorful Hearts - Version 1.20.1-4.3.16
+  * #### Cooking For Blockheads - Version 1.20.1-16.0.9
+  * #### Corail Tombstone - Version 1.20.1-8.7.4
+  * #### CorgiLib - Version 1.20.1-4.0.3.2
   * #### Crafting Tweaks - Version 1.20.1-18.2.5
+  * #### Create - Version 0.5.1.h
+  * #### Create: Connected - Version 0.9.1-mc1.20.1-all
   * #### Create: Crafts & Additions - Version 1.2.4e
-  * #### Create: The Factory Must Grow - Version 0.9.1c-1.20.1
-  * #### Creative Core - Version v2.11.37_mc1.20.1
+  * #### Create: Encased - Version 1.20.1-1.6.1
+  * #### Create: Ore Excavation - Version 1.20-1.5.2
+  * #### Create: Slice & Dice - Version 3.3.0
+  * #### Create: Steam 'n' Rails - Version 1.6.5+forge-mc1.20.1
+  * #### Create: The Factory Must Grow - Version 0.9.2c-1.20.1
+  * #### Creative Core - Version FORGE_v2.12.15_mc1.20.1
   * #### Curios API - Version 5.10.0+1.20.1
-  * #### Deeper and Darker - Version 1.20.1-1.3.1
+  * #### Custom Player Models - Version 1.20-0.6.19a
+  * #### Deeper and Darker - Version 1.20.1-1.3.2
   * #### Embeddium - Version 0.3.30+mc1.20.1
-  * #### Entity Model Features - Version 1.20.1-2.2.2
-  * #### Entity Texture Features - Version 1.20.1-6.2.2
+  * #### Entity Model Features - Version 1.20.1-2.2.6
+  * #### Entity Texture Features - Version 1.20.1-6.2.5
   * #### Enhanced AI - Version 2.4.9-mc1.20.1
   * #### Functional Storage - Version 1.20.14-1.2.12
   * #### Fungal Infection: Spore - Version 1.20.1_2.0.9d
