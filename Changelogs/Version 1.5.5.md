@@ -19,6 +19,7 @@
   
   * #### Doctor Who: Weeping Angels (Replaced with SCP-173)
   * #### Eyes In The Darkness (Replaced With SCP-280)
+  * #### Small Ships (Replaced With Aleki's Nifty Ships)
   * #### The Flesh That Hates (Awaiting Mob-Spawn Fix)
 
   </details> 
@@ -29,6 +30,7 @@
       Mods Added 
     </summary>
   
+  * #### Aleki's Nifty Ships
   * #### Amplified Nether
   * #### Ender TriGon
   * #### Entity Culling
